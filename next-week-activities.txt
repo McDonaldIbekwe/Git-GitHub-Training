@@ -1,0 +1,3 @@
+Read C++ books
+Watch videos on C++
+Watch videos on STM32
