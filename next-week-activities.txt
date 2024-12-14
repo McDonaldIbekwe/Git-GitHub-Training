@@ -1,3 +1,5 @@
 Read C++ books
 Watch videos on C++
 Watch videos on STM32
+Arduino Uno rev4 with WIFI
+Gas turbine for aerospace
