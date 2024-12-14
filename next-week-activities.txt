@@ -1,3 +1,10 @@
 Read C++ books
 Watch videos on C++
 Watch videos on STM32
+notebook-cpp-about-move-semantics-preview
+Andreas Fertig - Programming with C++20_ Concepts, Coroutines, Ranges, and more-Fertig Publications (2024)
+Mastering the Arduino Uno R4 progr
+Elecia White - Making Embedded Systems_ Design Patterns for Great Software-O’Reilly Media (2024)
+Frank Vasquez_ Chris Simmonds - Mastering Embedded Linux Programming - Third Edition-Packt Publishing (2021)
+Building Smart Drones with ESP8266 and Arduin
+Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow  Concepts, Tools, and Techniques to Build Intelligent Systems-O'Reilly Media, Inc. (2023)
